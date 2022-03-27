@@ -11,6 +11,7 @@
   inputs.src-db_clickhouse-v0_2_0.ref   = "refs/tags/v0.2.0";
   inputs.src-db_clickhouse-v0_2_0.owner = "leonardoce";
   inputs.src-db_clickhouse-v0_2_0.repo  = "nim-clickhouse";
+  inputs.src-db_clickhouse-v0_2_0.dir   = "";
   inputs.src-db_clickhouse-v0_2_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
