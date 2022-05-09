@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/leonardoce/nim-clickhouse",
   "refs": [
-    "fatal: unable to access 'https://github.com/leonardoce/nim-clickhouse/': SSL connection timeout",
+    "fatal: unable to access 'https://github.com/leonardoce/nim-clickhouse/': Failed to connect to github.com port 443 after 130188 ms: Network is unreachable",
     ""
   ],
   "heads": []
