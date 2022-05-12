@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1650750189,
-        "narHash": "sha256-te45aEnMc7BaCJsnlVMjov8S9DXnFx0FtDeqkLUYMVA=",
+        "lastModified": 1652367055,
+        "narHash": "sha256-GEnb1JlW2696PvqsCNnTWZMppkCrc2I6TBzWbPHYDqA=",
         "owner": "nim-nix-pkgs",
         "repo": "db_clickhouse",
-        "rev": "efe94d13c8af25e6b02611c6811c21a991b58618",
+        "rev": "853d2272829848a033dee536552656d1efd9aa60",
         "type": "github"
       },
       "original": {
@@ -39,11 +39,11 @@
       },
       "locked": {
         "dir": "v0_1_0",
-        "lastModified": 1650750189,
-        "narHash": "sha256-te45aEnMc7BaCJsnlVMjov8S9DXnFx0FtDeqkLUYMVA=",
+        "lastModified": 1652367055,
+        "narHash": "sha256-GEnb1JlW2696PvqsCNnTWZMppkCrc2I6TBzWbPHYDqA=",
         "owner": "nim-nix-pkgs",
         "repo": "db_clickhouse",
-        "rev": "efe94d13c8af25e6b02611c6811c21a991b58618",
+        "rev": "853d2272829848a033dee536552656d1efd9aa60",
         "type": "github"
       },
       "original": {
@@ -66,11 +66,11 @@
       },
       "locked": {
         "dir": "v0_2_0",
-        "lastModified": 1650750189,
-        "narHash": "sha256-te45aEnMc7BaCJsnlVMjov8S9DXnFx0FtDeqkLUYMVA=",
+        "lastModified": 1652367055,
+        "narHash": "sha256-GEnb1JlW2696PvqsCNnTWZMppkCrc2I6TBzWbPHYDqA=",
         "owner": "nim-nix-pkgs",
         "repo": "db_clickhouse",
-        "rev": "efe94d13c8af25e6b02611c6811c21a991b58618",
+        "rev": "853d2272829848a033dee536552656d1efd9aa60",
         "type": "github"
       },
       "original": {
@@ -93,11 +93,11 @@
       },
       "locked": {
         "dir": "v0_3_0",
-        "lastModified": 1650750189,
-        "narHash": "sha256-te45aEnMc7BaCJsnlVMjov8S9DXnFx0FtDeqkLUYMVA=",
+        "lastModified": 1652367055,
+        "narHash": "sha256-GEnb1JlW2696PvqsCNnTWZMppkCrc2I6TBzWbPHYDqA=",
         "owner": "nim-nix-pkgs",
         "repo": "db_clickhouse",
-        "rev": "efe94d13c8af25e6b02611c6811c21a991b58618",
+        "rev": "853d2272829848a033dee536552656d1efd9aa60",
         "type": "github"
       },
       "original": {
@@ -120,11 +120,11 @@
       },
       "locked": {
         "dir": "v0_4_0",
-        "lastModified": 1650750189,
-        "narHash": "sha256-te45aEnMc7BaCJsnlVMjov8S9DXnFx0FtDeqkLUYMVA=",
+        "lastModified": 1652367055,
+        "narHash": "sha256-GEnb1JlW2696PvqsCNnTWZMppkCrc2I6TBzWbPHYDqA=",
         "owner": "nim-nix-pkgs",
         "repo": "db_clickhouse",
-        "rev": "efe94d13c8af25e6b02611c6811c21a991b58618",
+        "rev": "853d2272829848a033dee536552656d1efd9aa60",
         "type": "github"
       },
       "original": {
